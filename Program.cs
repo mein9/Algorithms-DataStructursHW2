@@ -20,7 +20,6 @@
 
                 if (mid % 2 == 1) // if odd enters statement
                 {
-
                     mid --; // moves back 2 spots
                 }
 
