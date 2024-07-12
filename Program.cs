@@ -33,7 +33,7 @@
                
 
             }
-            return arrToSearch[lower];
+            return arrToSearch[lower]; // returns lonely element
         }
     }
 }
