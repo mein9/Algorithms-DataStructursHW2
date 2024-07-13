@@ -20,7 +20,7 @@
 
                 if (mid % 2 == 1) // if odd enters statement
                 {
-                    mid --; // moves back 2 spots
+                    mid --; // moves back 1 spot
                 }
 
                 if (arrToSearch[mid] == arrToSearch[mid + 1]) // if mid index matches following int enter statement
